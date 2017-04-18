@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Homework: Jiggle Into JavaScript</title>
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> -->
+</head>
+
+<body>
+    <p>Press the buttons to change the box!</p>
+    <div id="box" onmouseover="makeBig(this)" onmouseout="makeReset(this)" style="height:150px; width:150px; background-color:orange; margin:25px"></div>
+    <button id="button1" onclick="grow()">Grow</button>
+    <button id="button2" onclick="change()">Blue</button>
+    <button id="button3" onclick="fade()">Fade</button>
+    <button id="button4" onclick="reset()">Reset</button>
+    <button id="button5" onclick="hide()">Hide</button>
+    <script type="text/javascript" src="javascript.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+body {
+    background-color: #ffc72c;
+}
+
+h1 {
+    text-align: center;
+    color: #0057b8;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    border: inset;
+    border-color: black;
+    border-width: 5px;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: #0057b8;
+}
+
+ul li {
+    width: 25%;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: inset;
+    border-color: #0057b8;
+    border-radius: 5px;
+    border-width: 10px;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}

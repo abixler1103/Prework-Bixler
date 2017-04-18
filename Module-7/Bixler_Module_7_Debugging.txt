@@ -1,0 +1,28 @@
+Jumboton needs css heading: <h1>Boo The Dog Fan Page!</h1>
+
+<!— —> comment out the instructions
+
+panel-body needs to have <p> around the 3 sections
+
+anchor href needs a link: <p>Read more at: <a href="https://en.wikipedia.org/wiki/Boo_(dog)">https://en.wikipedia.org/wiki/Boo_(dog)</a></p>
+
+picture needed <img > :: <img class="img-responsive" src="https://img.buzzfeed.com/buzzfeed-static/static/2015-04/21/16/enhanced/webdr05/enhanced-31550-1429646952-7.jpg">
+
+Code out of order — missing class=row text-center for grow/shrink button
+
+Fix button text for colors to match color when clicked
+
+Fix list format
+
+Several missing </div>
+
+correct javascript file name
+
+edit var booFacts
+ 
+Add “ “ around css color pink
+
+animate box grow/shink needed “” on the click
+
+
+
